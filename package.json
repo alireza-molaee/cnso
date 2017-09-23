@@ -1,0 +1,27 @@
+{
+  "name": "cnso",
+  "version": "1.0.0",
+  "description": "circle nested options to select ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alireza-molaee/cnso.git"
+  },
+  "keywords": [
+    "canvas",
+    "konva",
+    "select",
+    "options",
+    "nested",
+    "circle"
+  ],
+  "author": "alireza molaee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alireza-molaee/cnso/issues"
+  },
+  "homepage": "https://github.com/alireza-molaee/cnso#readme"
+}
